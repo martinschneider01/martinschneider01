@@ -2,13 +2,13 @@
 
 📍 Living in Lyon, France
 
-💻 Working @LinkValue since 2019, currently developping React for @BedrockStreaming
+💻 Working at @LinkValue since 2019, currently developping React for @BedrockStreaming
 
 👨‍🏫 Studied at @42Lyon
 
-📚 JavaScript / Typescript Dev, mostly React but always looking for something new to learn
+📚 JavaScript & Typescript Dev, mostly React but always looking for something new to learn
 
-🎶 Going to a lot of concerts / festivals, often as a volunteer
+🎶 Going to a lot of concerts and festivals, often as a volunteer
 
 
 
