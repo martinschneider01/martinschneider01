@@ -1,6 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Martin SCHNEIDER</h1>
 <h3 align="center">A passionate React (TypeScript / Javascript) from Lyon, France</h3>
 
+
 - 🔭 I have worked with React, TypeScript, JavaScript and ReScript/ReasonML, mostly Front-End
 
 - 🌱 Really want to lean Rust
