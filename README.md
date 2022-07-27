@@ -1,11 +1,17 @@
-# 👋 Hi there
+<h1 align="center">Hello there 👋, I'm Martin SCHNEIDER</h1>
+<h3 align="center">A passionate React (TypeScript / Javascript) from Lyon, France</h3>
 
-- 📍 Living in Lyon, France
+- 🔭 I have worked with React, TypeScript, JavaScript and ReScript/ReasonML, mostly Front-End
+
+- 🌱 Really want to lean Rust
+
 - 💻 Working at @LinkValue since 2019, currently developping React for @BedrockStreaming
+
 - 👨‍🏫 Studied at @42Lyon
-- 📚 JavaScript & Typescript Dev, mostly React but always looking for something new to learn
+
 - 🎶 Going to a lot of concerts and festivals, often as a volunteer
-- 💌 You can contact me by email or on LinkedIn, I'll try to answer you as quick as possible
+
+- 📫 You can contact me by email (martin.schneider01@gmail.com) or on LinkedIn, I'll try to answer you as quick as possible
 
 
 
