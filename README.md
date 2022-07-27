@@ -2,7 +2,7 @@
 
 📍 Living in Lyon, France
 
-💻 Working @ LinkValue since 2019
+💻 Working @LinkValue since 2019
 
 👨‍🏫 Studied at @42Lyon
 
