@@ -2,7 +2,7 @@
 
 📍 Living in Lyon, France
 
-💻 Working @LinkValue since 2019
+💻 Working @LinkValue since 2019, currently developping React for @BedrockStreaming
 
 👨‍🏫 Studied at @42Lyon
 
