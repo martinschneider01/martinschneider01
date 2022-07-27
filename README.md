@@ -1,4 +1,4 @@
-### 👋 Hi there
+# 👋 Hi there
 
 📍 Living in Lyon, France
 
