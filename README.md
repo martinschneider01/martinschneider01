@@ -1,10 +1,16 @@
 ### 👋 Hi there
 
 📍 Living in Lyon, France
+
 💻 Working @ LinkValue since 2019
+
 👨‍🏫 Studied at @42Lyon
+
 📚 JavaScript / Typescript Dev, mostly React but always looking for something new to learn
+
 🎶 Going to a lot of concerts / festivals, often as a volunteer
+
+
 
 Have a great day 😘
 
