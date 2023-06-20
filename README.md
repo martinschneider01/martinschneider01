@@ -6,7 +6,7 @@
 
 - 🌱 Really want to lean Rust
 
-- 💻 Working at @LinkValue since 2019, currently developping React for @BedrockStreaming
+- 💻 Working at @elmy-team
 
 - 👨‍🏫 Studied at @42Lyon
 
